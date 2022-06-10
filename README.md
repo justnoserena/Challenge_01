@@ -16,4 +16,4 @@ THEN they fall in sequential order"
 
 ## Image 
 
-[![Finished Website](C:\Users\Serena\OneDrive\Documents\GitHub\Challenge_01\Web capture_9-6-2022_175219_.jpeg)
+![Finished Website](./Web%20capture_9-6-2022_175219_.jpeg)
